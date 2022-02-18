@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="CUGIM2" id="CUGIM2">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="description" type="string"></SimpleField>
+</Schema>
+<Folder><name>CUGIM2</name>
+  <Placemark>
+	<name>CUGIM Consultants Ltd.</name>
+	<ExtendedData><SchemaData schemaUrl="#CUGIM2">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="descriptio">We are applied remote sensing and GIS/LBS specialists endorsed by Cranfield University.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.629048115709358,52.0740708524124</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
