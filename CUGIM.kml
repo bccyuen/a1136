@@ -4,6 +4,13 @@
 <name>CUGIM Consultants Ltd.</name>
 <description>We are applied remote sensing and GIS/LBS specialists endorsed by Cranfield University.</description>
 <Point>
+<coordinates>-0.626956038648627,52.075285484167416,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cranfield University</name>
+<description>https://www.cranfield.ac.uk/</description>
+<Point>
 <coordinates>-0.6290531158447267,52.07406672750533,0</coordinates>
 </Point>
 </Placemark>
