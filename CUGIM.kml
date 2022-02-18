@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
-  <Placemark>
-    <name>CUGIM Consultants Ltd.</name>
-    <description>We are applied remote sensing and GIS/LBS specialists endorsed by Cranfield University.</description>
-    <Point>
-      <coordinates>-0.6290531158447267,52.07406672750533,0</coordinates>
-    </Point>
-  </Placemark>
+<Placemark>
+<name>CUGIM Consultants Ltd.</name>
+<description>We are applied remote sensing and GIS/LBS specialists endorsed by Cranfield University.</description>
+<Point>
+<coordinates>-0.6290531158447267,52.07406672750533,0</coordinates>
+</Point>
+</Placemark>
 </kml>
